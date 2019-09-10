@@ -1,5 +1,5 @@
 Here you'll find GHC cross-compilers for `arm-linux-gnueabihf` and
-`aarch64-linux-gnu`.
+`aarch64-linux-gnu` targets.
 
 # Dependencies
 
