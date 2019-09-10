@@ -1,6 +1,8 @@
 Here you'll find GHC cross-compilers for `arm-linux-gnueabihf` and
 `aarch64-linux-gnu`.
 
+# Dependencies
+
 You should download and install [GIMP](https://gmplib.org/#DOWNLOAD), and you
 should have appropriate C compilers installed.
 
